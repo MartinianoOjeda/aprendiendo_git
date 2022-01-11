@@ -1,1 +1,1 @@
-print("Esta es un nuevo codigo")
+print("Este es un nuevo codigo")
